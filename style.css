@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    background-color:#242626 ;
+}
+
+#change{
+background:linear-gradient(to right,#1cb3ff 40% , #19defc 60%);
+}
+
+.links{
+    position: fixed;
+list-style: none;
+width: 100%;
+cursor: pointer;
+top:0px;
+margin-top: 0px;
+z-index: 64;
+background-color:#242626;
+}
+
+a{
+    color: #19defc;
+    text-decoration: none;
+}
+
+.link:hover{
+     background-color:#073a50;
+     font-size: 25px;
+}
+
+.link{
+    display: inline;
+    margin:5px;
+    margin-right: 25px;
+    font-size: 20px;
+    color: #00edf5;
+    
+}
+
+p{
+    color: rgb(0, 213, 255);
+}
+
+#head{
+color:#0b3039 ;
+}
+
+#heading{
+    color: #0b3039;
+}
+
+#video,#work,#writings,#contacts{
+    color:#19defc;
+}
+
+#articles{
+    color: aqua;
+    text-decoration: none;
+    font-size: 20px;
+ }
+
+ #change{
+    margin-top: 35px;
+ }
+
+ #change2{
+    margin-top: 30px;
+ }
